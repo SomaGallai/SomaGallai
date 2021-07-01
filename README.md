@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Product Development at UCL Odense
 - 🤖 I'm working as a Part Time Robotics Assistant at CM-Robotics
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SomaGallai&show_icons=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SomaGallai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomaGallai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
