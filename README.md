@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @SomaGallai
-- 👀 I’m interested in Software/Network Development
-- 🌱 I’m currently learning Product Development at UCL Odense
-- 🤖 I'm working as a Part Time Robotics Assistant at CM-Robotics
+👋 Hi, I’m @SomaGallai
+
+```yaml
+name: Soma Gallai
+located_in: Odense, Denmark
+from: Oroszlány (Hungary)
+job: DevOps Engineer
+education: Bachelor's in Product Development and Integrative Technologies
+company: Coalescent Mobile Robotics
+hobbies: ["Video Games", "Biking", "IoT"]
+```
