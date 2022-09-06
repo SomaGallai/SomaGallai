@@ -2,7 +2,7 @@
 
 ```yaml
 name: Soma Gallai
-located_in: Odense, Denmark
+located_in: Copenhagen, Denmark
 from: Oroszlány (Hungary)
 job: DevOps Engineer
 education: Bachelor's in Product Development and Integrative Technologies
